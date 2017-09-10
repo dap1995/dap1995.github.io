@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Daniel André da Silva"
   avatar           : "/assets/images/avatar_bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm brazilian, I'm 22 years old. I'm a software developer. I used to work with devops and sysadmin, but Today I prefer the software development. I'm a technical graduate of computer networks and I'm finishing a graduation in Bachelor of Information Systems."
+  bio              : "I'm brazilian, I'm 22 years old. I'm a software developer. I used to work with devops and sysadmin, but today I prefer the software development. I'm a technical graduate of computer networks and I'm finishing a graduation in bachelor of information systems."
   location         : "Jaraguá do Sul - SC - Brazil"
   email            : "dap1995@gmail.com"
   uri              : "https://16hop.com.br"
