@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "DAP1995"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Daniel André da Silva"
+description              : "My posts and ideas."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,25 +77,25 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
-  bitbucket        :
+  name             : "Daniel André da Silva"
+  avatar           : "/assets/images/avatar_bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I'm brazilian, I'm 22 years old. I'm a software developer. I used to work with devops and sysadmin, but Today I prefer the software development. I'm a technical graduate of computer networks and I'm finishing a graduation in Bachelor of Information Systems."
+  location         : "Jaraguá do Sul - SC - Brazil"
+  email            : "dap1995@gmail.com"
+  uri              : "16hop.com.br"
+  bitbucket        : "https://bitbucket.org/dap1995"
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
-  github           :
+  github           : "https://github.com/dap1995"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/_dapz"
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "daniel-andré-silva-49401660" # (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
